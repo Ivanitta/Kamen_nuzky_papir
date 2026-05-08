@@ -10,6 +10,7 @@ def hrame_hru():
   print("Zahráme si Kámen, nůžky, papír.")
   print("Zadáním slova 'konec', program ukončuje hru.")
 
+#logika hry
   while True:
     #hráč
     hrac=input("Zadej svůj tah:").lower()
