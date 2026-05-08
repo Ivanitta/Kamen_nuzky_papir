@@ -1,5 +1,7 @@
 import random
 
+
+#funkce hry
 def hrame_hru():
   vyber = ["kamen","papir","nuzky","kámen","papír","nůžky"]
   vyber_pocitace =["kámen","papír","nůžky"]
